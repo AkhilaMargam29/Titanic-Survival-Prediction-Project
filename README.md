@@ -12,4 +12,4 @@ This project builds a machine learning classification model to predict whether a
 See requirements.txt
 
 ## Author
-Prepared by [Your Name]
+Prepared by Akhila Margam
